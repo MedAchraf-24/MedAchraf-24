@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Achraf
+# 👋 Hello, I'm Mohamed Achraf
 
 🔍 QA Engineer passionate about delivering flawless software  
 🧪 Exploring API Automation Testing with Playwright  
