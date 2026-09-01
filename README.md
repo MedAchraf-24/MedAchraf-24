@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Achraf
 
 🔍 QA Engineer passionate about delivering flawless software  
-🧪 Exploring API Automation Testing with Playwright
+🧪 Exploring API Automation Testing with Playwright  
 ⚙️ Building robust test frameworks for web and mobile apps  
 📫 Let's connect: younes.mohamed.achraf@gmail.com  
 
